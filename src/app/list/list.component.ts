@@ -14,4 +14,6 @@ export class ListComponent {
     const deletedHero = this.heroes.pop() || ''
     this.deletedHero = deletedHero
   }
+
+  
 }

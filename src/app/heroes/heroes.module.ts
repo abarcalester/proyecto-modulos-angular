@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import {NgModule} from '@angular/core';
+import { NgModule } from '@angular/core';
 import { HeroesComponent } from './hero/heroes.component';
 import { ListComponent } from './list/list.component';
 

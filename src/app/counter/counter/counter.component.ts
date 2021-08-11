@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 
 @Component({
     selector: 'app-counter',
-    styleUrls: ['../app.component.css'],
+    styleUrls: ['../../app.component.css'],
     template: `
     
     <h1>{{ title }}</h1>
